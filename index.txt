@@ -1,0 +1,22 @@
+TRMM-LIS
+     - VHRAC_LIS_FRD_cogs/ [within a year/annual]
+                      - VHRAC_LIS_FRD_Time_1.0_co.tif TO
+                      -  VHRAC_LIS_FRD_Time_365.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRAC_LIS_FRD_cogs/VHRAC_LIS_FRD_Time_1.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRAC_LIS_FRD_cogs/VHRAC_LIS_FRD_Time_365.0_co.tif
+     - VHRDC_LIS_FRD_cogs/ [within a day]
+                      - VHRDC_LIS_FRD_Time_0.0_co.tif TIF
+                      - VHRDC_LIS_FRD_Time_23.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRDC_LIS_FRD_cogs/VHRDC_LIS_FRD_Time_0.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRDC_LIS_FRD_cogs/VHRDC_LIS_FRD_Time_23.0_co.tif
+     - VHRMC_LIS_FRD_cogs/ [within a month]
+                      - VHRMC_LIS_FRD_Month_1.0_co.tif TO
+                      - VHRMC_LIS_FRD_Month_12.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRMC_LIS_FRD_cogs/VHRMC_LIS_FRD_Month_1.0_co.tif
+                      - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRMC_LIS_FRD_cogs/VHRMC_LIS_FRD_Month_12.0_co.tif
+     - VHRSC_LIS_FRD_cogs/ [within a season???]
+                     - VHRSC_LIS_FRD_Season_1.0_co.tif TO
+                     - VHRSC_LIS_FRD_Season_4.0_co.tif
+                     - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRSC_LIS_FRD_cogs/VHRSC_LIS_FRD_Season_1.0_co.tif
+                     - url: https://ghrc-cog.s3.us-west-2.amazonaws.com/TRMM-LIS/VHRSC_LIS_FRD_cogs/VHRSC_LIS_FRD_Season_12.0_co.tif
+
